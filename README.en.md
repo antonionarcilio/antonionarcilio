@@ -22,7 +22,8 @@ Software Engineer | Senior Frontend Specialist | Open to Work
 ## 👨‍💻 About Me
 
 - 💻 5+ years building web solutions with **React, Next.js and TypeScript**:
-  - 🏢 **Escallo | Futurotec**, an omnichannel customer service and AI software company (2022 – 2026):
+  - 🏢 **Escallo | Futurotec**, an omnichannel customer service and AI software company.
+    - 📌 Frontend work: maintaining production systems and building on-demand products, plus internal applications and institutional websites, as the main person responsible for the frontend in some of them. Key results:
     - 🧩 Component library with 25+ components, adopted in 3 products: about 35% less screen delivery time and 50% less rework.
     - 🔐 Access to about 5 solutions unified into a single sign-on (OAuth), replacing one login per solution.
     - ⚡ Up to 80% fewer API requests across 3+ platforms, by consolidating each page's calls into a single query.

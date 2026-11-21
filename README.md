@@ -22,7 +22,8 @@ Engenheiro de Software | Especialista em Frontend Sênior | Aberto para Trabalho
 ## 👨‍💻 Sobre Mim
 
 - 💻 5+ anos desenvolvendo soluções web com **React, Next.js e TypeScript**:
-  - 🏢 **Escallo | Futurotec**, empresa de atendimento omnichannel e IA (2022 – 2026):
+  - 🏢 **Escallo | Futurotec**, empresa de atendimento omnichannel e IA.
+    - 📌 Atuação em frontend: manutenção de sistemas em produção e desenvolvimento de produtos sob demanda, além de aplicações internas e sites institucionais, sendo a principal pessoa responsável pelo frontend em parte deles. Principais resultados:
     - 🧩 Biblioteca de componentes com 25+ componentes, adotada em 3 produtos: cerca de 35% menos tempo de entrega de telas e 50% menos retrabalho.
     - 🔐 Acesso a cerca de 5 soluções unificado em um login único (OAuth), no lugar de um login por solução.
     - ⚡ Até 80% menos requisições à API em 3+ plataformas, ao consolidar as chamadas de cada página em uma só.
