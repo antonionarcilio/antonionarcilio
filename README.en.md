@@ -1,5 +1,4 @@
-<p align="center"><img src="assets/header.png" alt="Yudi Ganeko, Senior Backend Engineer. AI, payments and order systems at scale. 120K on YouTube." width="100%"></p>
-
+<p align="center"><img src="assets/header.png" alt="Antônio Mascarenhas, Software Engineer and Frontend Specialist." width="100%"></p>
 
 <p align="center"><b>English</b> · <a href="README.md">Português (BR)</a></p>
 
@@ -7,40 +6,36 @@
 
 <!-- # Antônio Mascarenhas -->
 
-### Software Engineer | Frontend Specialist
-
-Building scalable web applications and digital experiences
-with a focus on **software quality, performance and accessibility**.
+Software Engineer | Senior Frontend Specialist | Open to Work
 
 <p align="center">
   <code>React</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>JavaScript ES6+</code> • <code>Node.js</code>
 </p>
 
-[Website](https://antoniomascarenhas.com.br) ·
-[LinkedIn](https://linkedin.com/in/antoniomascarenhas) ·
-[Email](mailto:contato@antoniomascarenhas.com.br)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoniomascarenhas)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://antoniomascarenhas.com.br)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@antoniomascarenhas.com.br)
 
 </div>
 
 ---
 ## 👨‍💻 About Me
 
-I'm a Software Engineer with 5+ years of experience in Frontend Development, focused on building modern, scalable and user-centered web applications.
+- 💻 5+ years building web solutions with **React, Next.js and TypeScript**:
+  - 🏢 **Escallo | Futurotec**, an omnichannel customer service and AI software company (2022 – 2026):
+    - 🧩 Component library with 25+ components, adopted in 3 products: about 35% less screen delivery time and 50% less rework.
+    - 🔐 Access to about 5 solutions unified into a single sign-on (OAuth), replacing one login per solution.
+    - ⚡ Up to 80% fewer API requests across 3+ platforms, by consolidating each page's calls into a single query.
+    - 🚀 PageSpeed of WordPress sites up by over 150% on desktop and 300% on mobile, with a focus on accessibility and Core Web Vitals.
+    - 🎨 Evolved the company Design System and redesigned the layout of 3 products, with 15+ screens prototyped in Figma and implemented.
+    - 🧭 Setup flows with about 70% fewer steps and navigation with up to 90% less usage complexity.
+- 🏗️ Microfrontends (Module Federation), Design Systems and accessibility (**WCAG**).
+- 🛠️ Backend with **Node.js and Express**, **PostgreSQL** and **MySQL** (working knowledge of MongoDB); testing with **Jest**, **Vitest** and **Playwright**; **CI/CD** and **Docker**.
+- 🤖 Automations with **n8n** and **Zapier** and AI-assisted development (Claude Code, GitHub Copilot, Spec-Driven Development).
+<!-- - 🔒 I apply **OWASP Top 10** security best practices on the frontend, such as in-browser data encryption and password validation. -->
+- 🌎 Open to new opportunities in Software Development.
 
-My professional experience includes:
-
-- Developing web applications with **React, Next.js and TypeScript**.
-- Designing and maintaining reusable components and **Design Systems**.
-- Integrating REST and GraphQL APIs.
-- Improving web performance, accessibility and user experience.
-- Collaborating with product, design and engineering teams.
-
-I'm currently pursuing a **Postgraduate Specialization in Software Engineering at PUC Minas**, expanding my knowledge in software architecture, distributed frontend architectures and AI-assisted software development.
-
-I'm particularly interested in how engineering practices and emerging technologies can improve the way we design, build and maintain software.
-
+<!--
 ## 🛠️ Tech Stack
 
 **Frontend Development**
@@ -67,75 +62,12 @@ I'm particularly interested in how engineering practices and emerging technologi
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-<!--
-
-## 🚀 Featured Projects
-
-> A selection of projects that represent my experience, technical interests and continuous learning.
-
-### Project Name
-
-**Short description of the project and the problem it solves.**
-
-- **My contribution:** Describe what you designed, implemented or improved.
-- **Technical highlights:** Mention architecture, integrations or interesting challenges.
-- **Technologies:** React, Next.js, TypeScript, etc.
-
-[Repository](https://github.com/your-username/project) · [Live Demo](https://example.com)
-
----
-
-### Project Name
-
-**Short description of the project and its purpose.**
-
-- **My contribution:** Explain your role in the project.
-- **Technical highlights:** Describe an important technical decision.
-- **Technologies:** React, TypeScript, Node.js, etc.
-
-[Repository](https://github.com/your-username/project) · [Live Demo](https://example.com)
-
----
-
-### Project Name
-
-**A project focused on exploring new technologies and software engineering practices.**
-
-- **My contribution:** Describe what you built.
-- **Technical highlights:** Explain what you learned or implemented.
-- **Technologies:** Next.js, Node.js, PostgreSQL, etc.
-
-[Repository](https://github.com/your-username/project)
 -->
 
 ## 📚 Currently Exploring
 
+- **Postgraduate Degree:** Software Engineering at PUC Minas (expected 2027).
 - **Software Architecture:** Microfrontends, architectural patterns and scalable applications.
 - **AI-Assisted Development:** Applying AI tools and workflows to software engineering.
 - **Backend Development:** Node.js, API design and database integration.
 - **Software Quality:** Automated testing, maintainability and engineering best practices.
-
-
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with people, exchanging knowledge and discussing software engineering, technology and product development.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoniomascarenhas)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://antoniomascarenhas.com.br)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@antoniomascarenhas.com.br)
-
-</div>
-
-<!--
----
-
-<div align="center">
-
-*"Good software is built with curiosity, thoughtful decisions and continuous improvement."*
-
-</div>
--->

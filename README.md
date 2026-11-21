@@ -6,38 +6,36 @@
 
 <!-- # Antônio Mascarenhas -->
 
-### Engenheiro de Software | Especialista em Frontend
-
-Construindo aplicações web escaláveis e experiências digitais
-com foco em **qualidade de software, performance e acessibilidade**.
+Engenheiro de Software | Especialista em Frontend Sênior | Aberto para Trabalho
 
 <p align="center">
   <code>React</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>JavaScript ES6+</code> • <code>Node.js</code>
 </p>
 
-[Website](https://antoniomascarenhas.com.br) ·
-[LinkedIn](https://linkedin.com/in/antoniomascarenhas) ·
-[E-mail](mailto:contato@antoniomascarenhas.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoniomascarenhas)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://antoniomascarenhas.com.br)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@antoniomascarenhas.com.br)
 
 </div>
 
 ---
 ## 👨‍💻 Sobre Mim
 
-Sou Engenheiro de Software com mais de 5 anos de experiência em Desenvolvimento Frontend, focado em construir aplicações web modernas, escaláveis e centradas no usuário.
+- 💻 5+ anos desenvolvendo soluções web com **React, Next.js e TypeScript**:
+  - 🏢 **Escallo | Futurotec**, empresa de atendimento omnichannel e IA (2022 – 2026):
+    - 🧩 Biblioteca de componentes com 25+ componentes, adotada em 3 produtos: cerca de 35% menos tempo de entrega de telas e 50% menos retrabalho.
+    - 🔐 Acesso a cerca de 5 soluções unificado em um login único (OAuth), no lugar de um login por solução.
+    - ⚡ Até 80% menos requisições à API em 3+ plataformas, ao consolidar as chamadas de cada página em uma só.
+    - 🚀 Pontuação de PageSpeed de sites WordPress elevada em mais de 150% no desktop e 300% no mobile, com foco em acessibilidade e Core Web Vitals.
+    - 🎨 Evoluí o Design System da empresa e reformulei o layout de 3 produtos, com mais de 15 telas prototipadas no Figma e implementadas.
+    - 🧭 Fluxos de configuração com cerca de 70% menos etapas e navegação com até 90% menos complexidade de uso.
+- 🏗️ Microfrontends (Module Federation), Design Systems e acessibilidade (**WCAG**).
+- 🛠️ Backend com **Node.js e Express**, **PostgreSQL** e **MySQL** (noções de MongoDB); testes com **Jest**, **Vitest** e **Playwright**; **CI/CD** e **Docker**.
+- 🤖 Automações com **n8n** e **Zapier** e desenvolvimento assistido por IA (Claude Code, GitHub Copilot, Spec-Driven Development).
+<!-- - 🔒 Aplico boas práticas de segurança do **OWASP Top 10** no frontend, como criptografia de dados no navegador e validação de senhas. -->
+- 🌎 Aberto a novas oportunidades em Desenvolvimento de Software.
 
-Minha experiência profissional inclui:
-
-- Desenvolvimento de aplicações web com **React, Next.js e TypeScript**.
-- Criação e manutenção de componentes reutilizáveis e **Design Systems**.
-- Integração de APIs REST e GraphQL.
-- Melhoria de performance, acessibilidade e experiência do usuário na web.
-- Colaboração com times de produto, design e engenharia.
-
-Atualmente cursando **Pós-graduação (Especialização) em Engenharia de Software na PUC Minas**, aprofundando meus conhecimentos em arquitetura de software, arquiteturas frontend distribuídas e desenvolvimento de software assistido por IA.
-
-Tenho especial interesse em como práticas de engenharia e tecnologias emergentes podem melhorar a forma como projetamos, construímos e mantemos software.
-
+<!--
 ## 🛠️ Tech Stack
 
 **Desenvolvimento Frontend**
@@ -64,22 +62,12 @@ Tenho especial interesse em como práticas de engenharia e tecnologias emergente
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+-->
 
 ## 📚 Estudando Atualmente
 
+- **Pós-graduação:** Engenharia de Software na PUC Minas (conclusão em 2027).
 - **Arquitetura de Software:** Microfrontends, padrões arquiteturais e aplicações escaláveis.
 - **Desenvolvimento Assistido por IA:** Aplicação de ferramentas e fluxos de IA na engenharia de software.
 - **Desenvolvimento Backend:** Node.js, design de APIs e integração com bancos de dados.
 - **Qualidade de Software:** Testes automatizados, manutenibilidade e boas práticas de engenharia.
-
-## 🤝 Vamos nos Conectar
-
-Tenho sempre interesse em me conectar com pessoas, trocar conhecimento e conversar sobre engenharia de software, tecnologia e desenvolvimento de produtos.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoniomascarenhas)
-[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://antoniomascarenhas.com.br)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@antoniomascarenhas.com.br)
-
-</div>
