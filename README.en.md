@@ -13,7 +13,7 @@ Building scalable web applications and digital experiences
 with a focus on **software quality, performance and accessibility**.
 
 <p align="center">
-  <code>React</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>Node.js</code>
+  <code>React</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>JavaScript ES6+</code> • <code>Node.js</code>
 </p>
 
 [Website](https://antoniomascarenhas.com.br) ·
