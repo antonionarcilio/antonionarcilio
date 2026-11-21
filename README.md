@@ -1,14 +1,15 @@
-<p align="center"><img src="assets/header.png" alt="Yudi Ganeko, Senior Backend Engineer. AI, payments and order systems at scale. 120K on YouTube." width="100%"></p>
+<p align="center"><img src="assets/header.png" alt="Antônio Mascarenhas, Engenheiro de Software e Especialista em Frontend." width="100%"></p>
 
+<p align="center"><a href="README.en.md">English</a> · <b>Português (BR)</b></p>
 
 <div align="center">
 
 <!-- # Antônio Mascarenhas -->
 
-### Software Engineer | Frontend Specialist
+### Engenheiro de Software | Especialista em Frontend
 
-Building scalable web applications and digital experiences
-with a focus on **software quality, performance and accessibility**.
+Construindo aplicações web escaláveis e experiências digitais
+com foco em **qualidade de software, performance e acessibilidade**.
 
 <p align="center">
   <code>React</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>Node.js</code>
@@ -16,109 +17,64 @@ with a focus on **software quality, performance and accessibility**.
 
 [Website](https://antoniomascarenhas.com.br) ·
 [LinkedIn](https://linkedin.com/in/antoniomascarenhas) ·
-[Email](mailto:contato@antoniomascarenhas.com.br)
-
-
+[E-mail](mailto:contato@antoniomascarenhas.com.br)
 
 </div>
 
 ---
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-I'm a Software Engineer with 5+ years of experience in Frontend Development, focused on building modern, scalable and user-centered web applications.
+Sou Engenheiro de Software com mais de 5 anos de experiência em Desenvolvimento Frontend, focado em construir aplicações web modernas, escaláveis e centradas no usuário.
 
-My professional experience includes:
+Minha experiência profissional inclui:
 
-- Developing web applications with **React, Next.js and TypeScript**.
-- Designing and maintaining reusable components and **Design Systems**.
-- Integrating REST and GraphQL APIs.
-- Improving web performance, accessibility and user experience.
-- Collaborating with product, design and engineering teams.
+- Desenvolvimento de aplicações web com **React, Next.js e TypeScript**.
+- Criação e manutenção de componentes reutilizáveis e **Design Systems**.
+- Integração de APIs REST e GraphQL.
+- Melhoria de performance, acessibilidade e experiência do usuário na web.
+- Colaboração com times de produto, design e engenharia.
 
-I'm currently pursuing a **Postgraduate Specialization in Software Engineering at PUC Minas**, expanding my knowledge in software architecture, distributed frontend architectures and AI-assisted software development.
+Atualmente cursando **Pós-graduação (Especialização) em Engenharia de Software na PUC Minas**, aprofundando meus conhecimentos em arquitetura de software, arquiteturas frontend distribuídas e desenvolvimento de software assistido por IA.
 
-I'm particularly interested in how engineering practices and emerging technologies can improve the way we design, build and maintain software.
+Tenho especial interesse em como práticas de engenharia e tecnologias emergentes podem melhorar a forma como projetamos, construímos e mantemos software.
 
 ## 🛠️ Tech Stack
 
-**Frontend Development**
+**Desenvolvimento Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**UI Engineering**
+**Engenharia de UI**
 
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white)
 
-**APIs & Backend**
+**APIs e Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
 
-**Tools & Workflow**
+**Ferramentas e Fluxo de Trabalho**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<!--
+## 📚 Estudando Atualmente
 
-## 🚀 Featured Projects
+- **Arquitetura de Software:** Microfrontends, padrões arquiteturais e aplicações escaláveis.
+- **Desenvolvimento Assistido por IA:** Aplicação de ferramentas e fluxos de IA na engenharia de software.
+- **Desenvolvimento Backend:** Node.js, design de APIs e integração com bancos de dados.
+- **Qualidade de Software:** Testes automatizados, manutenibilidade e boas práticas de engenharia.
 
-> A selection of projects that represent my experience, technical interests and continuous learning.
+## 🤝 Vamos nos Conectar
 
-### Project Name
-
-**Short description of the project and the problem it solves.**
-
-- **My contribution:** Describe what you designed, implemented or improved.
-- **Technical highlights:** Mention architecture, integrations or interesting challenges.
-- **Technologies:** React, Next.js, TypeScript, etc.
-
-[Repository](https://github.com/your-username/project) · [Live Demo](https://example.com)
-
----
-
-### Project Name
-
-**Short description of the project and its purpose.**
-
-- **My contribution:** Explain your role in the project.
-- **Technical highlights:** Describe an important technical decision.
-- **Technologies:** React, TypeScript, Node.js, etc.
-
-[Repository](https://github.com/your-username/project) · [Live Demo](https://example.com)
-
----
-
-### Project Name
-
-**A project focused on exploring new technologies and software engineering practices.**
-
-- **My contribution:** Describe what you built.
-- **Technical highlights:** Explain what you learned or implemented.
-- **Technologies:** Next.js, Node.js, PostgreSQL, etc.
-
-[Repository](https://github.com/your-username/project)
--->
-
-## 📚 Currently Exploring
-
-- **Software Architecture:** Microfrontends, architectural patterns and scalable applications.
-- **AI-Assisted Development:** Applying AI tools and workflows to software engineering.
-- **Backend Development:** Node.js, API design and database integration.
-- **Software Quality:** Automated testing, maintainability and engineering best practices.
-
-
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with people, exchanging knowledge and discussing software engineering, technology and product development.
+Tenho sempre interesse em me conectar com pessoas, trocar conhecimento e conversar sobre engenharia de software, tecnologia e desenvolvimento de produtos.
 
 <div align="center">
 
@@ -127,13 +83,3 @@ I'm always interested in connecting with people, exchanging knowledge and discus
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@antoniomascarenhas.com.br)
 
 </div>
-
-<!--
----
-
-<div align="center">
-
-*"Good software is built with curiosity, thoughtful decisions and continuous improvement."*
-
-</div>
--->
