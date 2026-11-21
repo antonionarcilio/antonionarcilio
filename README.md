@@ -23,13 +23,14 @@ Engenheiro de Software | Especialista em Frontend Sênior | Aberto para Trabalho
 
 - 💻 5+ anos desenvolvendo soluções web com **React, Next.js e TypeScript**:
   - 🏢 **Escallo | Futurotec**, empresa de atendimento omnichannel e IA.
-    - 📌 Atuação em frontend: manutenção de sistemas em produção e desenvolvimento de produtos sob demanda, além de aplicações internas e sites institucionais, sendo a principal pessoa responsável pelo frontend em parte deles. Principais resultados:
-    - 🧩 Biblioteca de componentes com 25+ componentes, adotada em 3 produtos: cerca de 35% menos tempo de entrega de telas e 50% menos retrabalho.
-    - 🔐 Acesso a cerca de 5 soluções unificado em um login único (OAuth), no lugar de um login por solução.
-    - ⚡ Até 80% menos requisições à API em 3+ plataformas, ao consolidar as chamadas de cada página em uma só.
-    - 🚀 Pontuação de PageSpeed de sites WordPress elevada em mais de 150% no desktop e 300% no mobile, com foco em acessibilidade e Core Web Vitals.
-    - 🎨 Evoluí o Design System da empresa e reformulei o layout de 3 produtos, com mais de 15 telas prototipadas no Figma e implementadas.
-    - 🧭 Fluxos de configuração com cerca de 70% menos etapas e navegação com até 90% menos complexidade de uso.
+    - 📌 Atuação em frontend: manutenção de sistemas em produção e desenvolvimento de produtos sob demanda, além de aplicações internas e sites institucionais, sendo a principal pessoa responsável pelo frontend em parte deles.
+    - 📈 Principais resultados:
+      - 🧩 Biblioteca de componentes com 25+ componentes, adotada em 3 produtos: cerca de 35% menos tempo de entrega de telas e 50% menos retrabalho.
+      - 🔐 Acesso a cerca de 5 soluções unificado em um login único (OAuth), no lugar de um login por solução.
+      - ⚡ Até 80% menos requisições à API em 3+ plataformas, ao consolidar as chamadas de cada página em uma só.
+      - 🚀 Pontuação de PageSpeed de sites WordPress elevada em mais de 150% no desktop e 300% no mobile, com foco em acessibilidade e Core Web Vitals.
+      - 🎨 Evoluí o Design System da empresa e reformulei o layout de 3 produtos, com mais de 15 telas prototipadas no Figma e implementadas.
+      - 🧭 Fluxos de configuração com cerca de 70% menos etapas e navegação com até 90% menos complexidade de uso.
 - 🏗️ Microfrontends (Module Federation), Design Systems e acessibilidade (**WCAG**).
 - 🛠️ Backend com **Node.js e Express**, **PostgreSQL** e **MySQL** (noções de MongoDB); testes com **Jest**, **Vitest** e **Playwright**; **CI/CD** e **Docker**.
 - 🤖 Automações com **n8n** e **Zapier** e desenvolvimento assistido por IA (Claude Code, GitHub Copilot, Spec-Driven Development).

@@ -23,13 +23,14 @@ Software Engineer | Senior Frontend Specialist | Open to Work
 
 - 💻 5+ years building web solutions with **React, Next.js and TypeScript**:
   - 🏢 **Escallo | Futurotec**, an omnichannel customer service and AI software company.
-    - 📌 Frontend work: maintaining production systems and building on-demand products, plus internal applications and institutional websites, as the main person responsible for the frontend in some of them. Key results:
-    - 🧩 Component library with 25+ components, adopted in 3 products: about 35% less screen delivery time and 50% less rework.
-    - 🔐 Access to about 5 solutions unified into a single sign-on (OAuth), replacing one login per solution.
-    - ⚡ Up to 80% fewer API requests across 3+ platforms, by consolidating each page's calls into a single query.
-    - 🚀 PageSpeed of WordPress sites up by over 150% on desktop and 300% on mobile, with a focus on accessibility and Core Web Vitals.
-    - 🎨 Evolved the company Design System and redesigned the layout of 3 products, with 15+ screens prototyped in Figma and implemented.
-    - 🧭 Setup flows with about 70% fewer steps and navigation with up to 90% less usage complexity.
+    - 📌 Frontend work: maintaining production systems and building on-demand products, plus internal applications and institutional websites, as the main person responsible for the frontend in some of them.
+    - 📈 Key results:
+      - 🧩 Component library with 25+ components, adopted in 3 products: about 35% less screen delivery time and 50% less rework.
+      - 🔐 Access to about 5 solutions unified into a single sign-on (OAuth), replacing one login per solution.
+      - ⚡ Up to 80% fewer API requests across 3+ platforms, by consolidating each page's calls into a single query.
+      - 🚀 PageSpeed of WordPress sites up by over 150% on desktop and 300% on mobile, with a focus on accessibility and Core Web Vitals.
+      - 🎨 Evolved the company Design System and redesigned the layout of 3 products, with 15+ screens prototyped in Figma and implemented.
+      - 🧭 Setup flows with about 70% fewer steps and navigation with up to 90% less usage complexity.
 - 🏗️ Microfrontends (Module Federation), Design Systems and accessibility (**WCAG**).
 - 🛠️ Backend with **Node.js and Express**, **PostgreSQL** and **MySQL** (working knowledge of MongoDB); testing with **Jest**, **Vitest** and **Playwright**; **CI/CD** and **Docker**.
 - 🤖 Automations with **n8n** and **Zapier** and AI-assisted development (Claude Code, GitHub Copilot, Spec-Driven Development).
